@@ -1,5 +1,3 @@
-ORBITAL
-
 ORBITAL is a cinematic enterprise website concept for a private orbital infrastructure and satellite logistics platform.
 
 It explores how aerospace systems, telemetry dashboards, and deployment architecture can be presented through a premium, defense-grade digital interface.
